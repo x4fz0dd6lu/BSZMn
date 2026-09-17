@@ -1,0 +1,2 @@
+# BSZMn
+customer publishing repository
